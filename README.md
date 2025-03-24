@@ -2,7 +2,7 @@
 - step by step guide to creating azure virtual machine
 
 ----------------------------------------------------------------------------------------------
-**Environments used**
+Environments used and srevices used
 
 - Azure
 
